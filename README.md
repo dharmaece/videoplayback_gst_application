@@ -2,7 +2,7 @@
 sample video playback gstreamer application which demonstrate the test video data display using autovideosink
 
 
-==============================================================================================================
+=============================================================================================
 
 This application same as below specified gstreamer pipeline output.
 
